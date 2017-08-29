@@ -1,0 +1,23 @@
+{
+  "name": "js-ldpc",
+  "version": "1.0.0",
+  "description": "A JavaScript implementation of a Low-Density Parity-Check code.",
+  "main": "ldpc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vdiez/js-ldpc.git"
+  },
+  "keywords": [
+    "ldpc",
+    "fec"
+  ],
+  "author": "Matthew Thomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vdiez/js-ldpc/issues"
+  },
+  "homepage": "https://github.com/vdiez/js-ldpc#readme"
+}
