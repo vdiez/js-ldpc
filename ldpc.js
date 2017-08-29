@@ -479,3 +479,5 @@ LDPC.util.transpose = function(array) {
 	}
 	return transposed;
 };
+
+module.exports = LDPC;
